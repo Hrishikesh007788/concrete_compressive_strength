@@ -71,7 +71,7 @@ Missing Attribute Values: None
 
 ## Web App:
 
-Web App Link: 
+Web App Link: https://compressive-strength-concrete.herokuapp.com
 
 In this web app, we just need to enter the amount of ingredients and the model will give a prediction on the compressive strength of the concrete if made with those amount of ingredients.
 
